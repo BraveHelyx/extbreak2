@@ -124,7 +124,7 @@
 
             <div class="row">
                 <h6>
-                    Eat <a href="https://pastebin.com/FEv7c4tA">source</a>.
+                    Eat <a href="/source.txt">source</a>.
                 </h6>
             </div>
         </div>
