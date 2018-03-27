@@ -47,6 +47,8 @@ This url decodes to `O:10:"print_flag":0:{}`. This payload provides the serialis
 
 ## XML External Entity
 ### Level0
+![](break2/img/extbreak2xxe.png)
+
 #### Successful Payload
 `http://0.0.0.0:8001/?param=ZmlsZTovLy9hcHAvZmxhZy50eHQ=`
 
