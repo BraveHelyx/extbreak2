@@ -1,0 +1,9 @@
+version: '3'
+services:
+    app:
+        image: php:7-fpm
+        command: php -S 0.0.0.0:8001 /app/index.php
+        ports:
+            - "8001:8001"
+        volumes:
+            - "./src:/app"
